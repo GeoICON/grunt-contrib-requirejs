@@ -16,7 +16,7 @@
     "test": "grunt test"
   },
   "dependencies": {
-    "requirejs": "2.3.6"
+    "requirejs": "https://github.com/geoicon/r.js.git#68666ba9d6caeb62abf2b5578ce9670492a29c39"
   },
   "devDependencies": {
     "grunt": "^1.0.0",
