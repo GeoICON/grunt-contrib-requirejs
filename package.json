@@ -16,7 +16,7 @@
     "test": "grunt test"
   },
   "dependencies": {
-    "requirejs": "git+https://github.com/GeoICON/npm-requirejs.git#7b9004647d26a315c0b8cb8ca521233f8e2a3957"
+    "requirejs": "git+https://github.com/GeoICON/npm-requirejs.git#204ff61efd42ea4995a35678b091e2cb39cda172"
   },
   "devDependencies": {
     "grunt": "^1.0.0",
